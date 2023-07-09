@@ -1,0 +1,7 @@
+naa na
+esto es los cambio perrones
+
+
+***cambios que esta meeah***
+Rastrear Archivos Nuevos
+Para comenzar a rastrear un archivo debes usar el comando git add. Para comenzar a rastrear el archivo README, puedes ejecutar lo siguiente:
